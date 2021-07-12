@@ -132,6 +132,9 @@ There is a [very early(!) Android version available](https://play.google.com/sto
 
 
 ## :hearts: Contributing
+
+gitpod.io/#prebuild/https://github.com/gotjoshua/super-productivity
+
 Please check out the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 There are several ways to help. 
