@@ -132,8 +132,8 @@ There is a [very early(!) Android version available](https://play.google.com/sto
 
 
 ## :hearts: Contributing
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#prebuild/https://github.com/gotjoshua/super-productivity)
 
-gitpod.io/#prebuild/https://github.com/gotjoshua/super-productivity
 
 Please check out the [CONTRIBUTING.md](CONTRIBUTING.md)
 
